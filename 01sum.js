@@ -1,3 +1,6 @@
+/**
+ * Map
+ */
 let sum = (arr, target) => {
   let map = new Map();
   for (let i = 0; i < arr.length; i++) {
